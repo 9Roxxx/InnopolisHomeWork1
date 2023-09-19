@@ -23,9 +23,11 @@ pip install -r requirements.txt
 Запуск приложения:
 Запустите приложение, выполнив команду:
 
-shell
-Copy code
+```shell
+
 python main.py
+```shell
+
 Автор
 Этот проект разработал [Хазов Александр] и доступен на GitHub по ссылке: SpeedTypingChecker.
 
