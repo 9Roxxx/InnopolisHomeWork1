@@ -19,8 +19,10 @@ Speed Typing
 Установка зависимостей:
 
 Установите необходимые библиотеки и зависимости, выполнив команду:
+
 Copy code
-pip install -r requirements.txt
+** pip install -r requirements.txt **
+
 Запуск приложения:
 
 Запустите приложение, выполнив команду:
